@@ -1,0 +1,11 @@
+.App {
+   text-align: center;
+}
+
+.todo-wrapper {
+  border: 3px solid #7CFC00;
+  margin: 20px auto;
+  padding: 20px;
+  width: 400px;
+  height: 600px;
+}

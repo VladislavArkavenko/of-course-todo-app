@@ -1,0 +1,20 @@
+ul{
+	margin:0;
+	padding:0;
+}
+
+ul .btn{
+	margin-left: 0;
+}
+
+.todoWrapper {
+	display: flex;
+	justify-content: left;
+	width: 100%;	
+}
+
+p {
+	width: 100%;
+	border-bottom: 3px solid #7CFC00;
+}
+
